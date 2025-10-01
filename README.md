@@ -1,4 +1,4 @@
-Для начала клонируем репозиторий "https://github.com/pavlikzajcev4-code/bot.napominalka"(нужно для всех версий)
+Для начала клонируем репозиторий "https://github.com/pavlikzajcev4-code/bot.napominalka" (нужно для всех версий)
 Для виртуальных машин:
 1 переходим в режми "root" (sudo su "пароль от входа в компьютер")
 2 скачиваем модуль "Python" (apt install python3)
